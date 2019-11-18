@@ -1,2 +1,7 @@
 # Day-Planner
-DAy planner HW
+
+Added HTML
+Added CSS
+
+Added JS
+Linked all references to HTML
